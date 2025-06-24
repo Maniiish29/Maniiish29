@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Writing & Football.
 - 🌱 I’m currently learning Python, HTML & CSS.
 - 💞️ I’m looking to collaborate on various projects.
-- 📫 You can reach me through my socials on Linkedin, Instagram or Quora.
+- 📫 You can reach me through my socials on Linkedin, Instagram or Medium.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I was the TIMES Person of the Year 2006 ;)
 
