@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish
 - 👀 I’m interested in Coding, Writing & Football.
-- 🌱 I’m currently learning Python, HTML & CSS.
+- 🌱 I’m currently learning Python, DSA & Web Development.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 You can reach me through my socials on Linkedin, Instagram or Medium.
 - 😄 Pronouns: He/him
